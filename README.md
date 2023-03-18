@@ -13,7 +13,7 @@ jailbreak chat GPT
 
 - It seems to help to completely clear your Cookies, Storage, etc for chat.openai.com.
 - most of this was made by <https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#file-chatgpt-dan-jailbreak-md>
-
+- When using DAN you must say DAN befor the questoion 
 ## "Jailbreak" Prompts
 
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
